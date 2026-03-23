@@ -16,4 +16,5 @@ AGBAC is an open specification for enabling AI agents to securely perform action
 ## Getting Started
 1.  Clone the repository: `git clone https://github.com/zoreanuj/agbac.git`
 2.  Install dependencies: `pip install -r requirements.txt`
-3.  Run the example agent and authorization server to explore the protocol flow.
+3.  Configure your OAuth provider settings in `config.yaml`.
+4.  Run the example agent: `python examples/basic_agent.py`
